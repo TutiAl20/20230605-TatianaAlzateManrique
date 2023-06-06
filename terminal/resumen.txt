@@ -1,0 +1,9 @@
+1. cd (Change Directory): Este comando te permite cambiar de directorio en la línea de comandos. Puedes utilizarlo para navegar entre las diferentes carpetas de tu sistema operativo. Por ejemplo, "cd Documents" te llevaría al directorio "Documents".
+
+2. ls (List): Con este comando puedes ver el contenido de un directorio. Al ejecutar "ls" en la línea de comandos, se mostrarán los archivos y carpetas presentes en el directorio actual.
+
+3. mkdir (Make Directory): Utiliza este comando para crear un nuevo directorio. Por ejemplo, "mkdir Proyecto" creará un nuevo directorio llamado "Proyecto".
+
+4. rm (Remove): Con el comando "rm" puedes eliminar archivos y directorios. Sin embargo, ten cuidado al usar este comando, ya que los archivos eliminados no se envían a la papelera de reciclaje y se borran permanentemente. Puedes utilizar "rm -r" para eliminar directorios y su contenido recursivamente.
+
+5. man (Manual): Este comando te proporciona acceso al manual de referencia de otros comandos
